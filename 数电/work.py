@@ -2,7 +2,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from 数电.utils import *
 
-
 # 5-2
 plot = Plot()
 plt.xlim(-2, 20)
